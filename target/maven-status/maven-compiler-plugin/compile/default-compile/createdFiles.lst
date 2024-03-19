@@ -1,0 +1,7 @@
+br\unipar\livraria\ws\LivrariaWebServiceImp.class
+br\unipar\livraria\ws\interfaces\LivrariaWebService.class
+br\unipar\livraria\ws\model\Livro.class
+br\unipar\livraria\ws\services\LivroService.class
+br\unipar\livraria\ws\repositories\LivroRepository.class
+br\unipar\livraria\ws\infraestructure\ConnectionFactory.class
+br\unipar\livraria\ws\model\Pessoa.class
